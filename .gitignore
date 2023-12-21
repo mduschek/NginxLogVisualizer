@@ -1,0 +1,5 @@
+/.idea
+/myvenv
+/nginx
+iplocation.db
+.env
