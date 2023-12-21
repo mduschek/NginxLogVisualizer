@@ -43,6 +43,9 @@ Author: Michael Duschek
 
 ## Execution
 - cd to the root directory of this project
+- add your IPGEOLOCATION API key to .env: `IP_GEOLOCATION_KEY=<yourKey>`
+- Optional: create virtual environment, conda or pipenv and activate it
+- run `pip install -r requirements.txt` 
 - run the command `streamlit run nginx-visualizer.py` in terminal
 - Browser: open http://localhost:8501/
 
